@@ -7,7 +7,7 @@ body {
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
-    font-family: 'Lato';
+    font-family: 'Montserrat';
 }
 
 /* from Bulma */
@@ -34,7 +34,7 @@ body {
 }
 
 .btn-black {
-    background: black;
+    background: rgb(211, 42, 53);
     color: white;
 }
 
