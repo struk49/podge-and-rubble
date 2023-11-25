@@ -1,20 +1,30 @@
+<!-- Code adapted from Code Institute Boutique Ado mini project and Bootstrap 4 code snippets -->
 {% load static %}
+
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
+
     {% block meta %}
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     {% endblock %}
 
     {% block extra_meta %}
     {% endblock %}
 
-
     {% block corecss %}
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+    <!-- Bootstrap 4.6 css -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <!-- core css -->
     <link rel="stylesheet" href="{% static 'css/base.css' %}">
     {% endblock %}
 
@@ -22,140 +32,194 @@
     {% endblock %}
 
     {% block corejs %}
-    <script src="https://kit.fontawesome.com/256864fd36.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <!-- Font awesome -->
+    <script src="https://kit.fontawesome.com/369f2651cf.js" crossorigin="anonymous"></script>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous">
+    </script>
+
+    <!-- Bootstrap 4.6 js -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+        integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous">
+    </script>
+
+    <!-- Stripe -->
+    <script src="https://js.stripe.com/v3/"></script>
     {% endblock %}
 
     {% block extra_js %}
     {% endblock %}
 
+    {% block favicons %}
+    <link rel="apple-touch-icon" sizes="180x180" href="{% static 'favicons/apple-touch-icon.png' %}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{% static 'favicons/favicon-32x32.png' %}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{% static 'favicons/favicon-16x16.png' %}">
+    <link rel="manifest" href="{% static 'favicons/site.webmanifest' %}">
+    {% endblock %}
 
-    <title>Podge and Rubble{% block extra_title %}{% endblock %}</title>
-  </head>
-  <body>
-    <header class="container-fluid fixed-top">
-      <div id="topnav" class="row bg-secondary pt-lg-2 d-none d-lg-flex">
-        <div class="col-12 col-lg-4 my-auto py-1 py-lg-0 text-center text-lg-left">
-          <a href="{% url 'home' %}" class="nav-link main-logo-link">
-            <h2 class="logo-font text-white my-0"><strong>Podge</strong> and <strong>Rubble</strong></h2>
-          </a>
+    <title>Sportswear Online {% block extra_title %}{% endblock %}</title>
+</head>
+
+<body>
+    <header class="container-fluid fixed top">
+        <div id="topnav" class="row bg-dark pt-lg-2 d-none d-lg-flex">
+            <!-- Brand Logo Image -->
+            <div class="col-12 col-lg-4 my-auto py-1 py-lg-0 text-center text-lg-left">
+                <a href="{% url 'home' %}" class="nav-link logo-img-link">
+                    <img src="{{ MEDIA_URL }}sportswear_online_logo_reverse.png" width="200" height="100"
+                        class="d-inline-block align-top mx-5" alt="" loading="lazy">
+                </a>
+            </div>
+
+            <!-- Search bar -->
+            <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
+                <form method="GET" action="{% url 'products' %}">
+                    <div class="input-group w-100">
+                        <input class="form-control border border-dark rounded-left" type="text" name="q"
+                            placeholder="Search by product, category or name...">
+                        <div class="input-group-append">
+                            <button class="form-control btn btn-white border border-dark rounded-right" type="submit"
+                                aria-label="search">
+                                <span class="icon">
+                                    <i class="fas fa-search"></i>
+                                </span>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- User Account and Shopping Bag links -->
+            <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
+                <ul class="list-inline list-unstyled text-center text-lg-right my-0">
+
+                    <!-- My Account dropdown menu -->
+                    <li class="list-inline-item dropdown">
+                        <a class="text-light nav-link" href="#" id="user-options" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            <div class="text-center">
+                                <div><i class="fas fa-user fa-lg"></i></div>
+                                <p class="my-0">My Account</p>
+                            </div>
+                        </a>
+                        <!-- Dropdown menu items -->
+                        <div class="dropdown-menu border-0">
+                            {% if request.user.is_authenticated %}
+                            {% if request.user.is_superuser %}
+                            <a href="{% url 'add_product' %}" class="dropdown-item">Product Management</a>
+                            {% endif %}
+                            <a href="{% url 'profile' %}" class="dropdown-item">My Profile</a>
+                            <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
+                            {% else %}
+                            <a href="{% url 'account_signup' %}" class="dropdown-item">Register</a>
+                            <a href="{% url 'account_login' %}" class="dropdown-item">Login</a>
+                            {% endif %}
+                        </div>
+                    </li>
+
+                    <!-- Shopping Cart -->
+                    <li class="list-inline-item">
+                        <a class="{% if grand_total %}text-success font-weight-bold{% else %}text-light{% endif %} nav-link"
+                            href="{% url 'view_cart' %}">
+                            <div class="text-center">
+                                <div><i class="fas fa-shopping-cart fa-lg"></i></div>
+                                <p class="my-0">
+                                    {% if grand_total %}
+                                    £{{ grand_total|floatformat:2 }}
+                                    {% else %}
+                                    £0.00
+                                    {% endif %}
+                                </p>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
-        <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
-          <form method="GET" action="">
-            <div class="input-group w-100">
-              <input class="form-control border border-black" type="text" name="q" placeholder="search">
-              <div class="input-group-append">
-                <button class="form-control btn btn-danger border border-black" type="submit">
-                  <span class="icon">
-                    <i class="fas fa-search"></i>
-                  </span>
+
+        <!-- Navbar elements are placed in partial HTML files -->
+        <div class="row bg-dark">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark w-100">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav"
+                    aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
                 </button>
-              </div>
-            </div>
-          </form>
+                {% include 'includes/mobile-nav.html' %}
+                {% include 'includes/main-nav.html' %}
+            </nav>
         </div>
-        <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
-          <ul class="list-inline list-unstyled text-center text-lg-right my-0">
-            <li class="list-inline-item dropdown">
-              <a class="text-white nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="false">
-                <div class="text-center">
-                  <div><i class="fas fa-user fa-lg"></i></div>
-                  <p class="my-0">Your Account</p>
-                </div>
-              </a>
-              <div class="dropdown-menu border-0" aria-labelledby="user-options">
-                {% if request.user.is_authenticated %}
-                    {% if request.user.is_superuser %}
-                        <a href="" class="dropdown-item">Product Management</a>
-                    {% endif %}
-                    <a href="" class="dropdown-item text-black">My Profile</a>
-                    <a href="{% url 'account_logout' %}" class="dropdown-item text-white">black</a>
-                {% else %}
-                    <a href="{% url 'account_signup' %}" class="dropdown-item text-black">Register</a>
-                    <a href="{% url 'account_login' %}" class="dropdown-item text-black">Login</a>
-                {% endif %}
+
+        <!-- Free Delivery Banner -->
+        <div id="delivery-banner" class="row text-center">
+            <div class="col bg-warning text-dark">
+                <h4 class="logo-font my-1">
+                    Shop online 24/7
+                    <strong>
+                        Extended returns available!
+                    </strong>
+                </h4>
             </div>
-            </li>
-            <li class="list-inline-item">
-              <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
-                <div class="text-center">
-                    <div class="text-white"><i class="fas fa-shopping-bag fa-lg"></i></div>
-                    <p class="my-0 text-white">
-                        {% if grand_total %}
-                            ${{ grand_total|floatformat:2 }}
-                        {% else %}
-                            $0.00
-                        {% endif %}
-                    </p>
-                </div>
-            </a>
-            </li>
-          </ul>
+            <div class="col bg-warning text-dark">
+                <h4 class="logo-font my-1">
+                    Free standard delivery
+                    <strong>
+                        on orders over £{{ free_delivery_threshold }}!
+                    </strong>
+                </h4>
+            </div>
         </div>
-      </div>
+
+        {% block breadcrumbs %}
+        {% endblock %}
     </header>
 
     {% if messages %}
-    <div class="message-container"></div>
+    <div class="message-container">
+        {% for message in messages %}
+        {% with message.level as level %}
+        {% if level == 40 %}
+        {% include 'includes/toasts/toast_error.html' %}
+        {% elif level == 30 %}
+        {% include 'includes/toasts/toast_warning.html' %}
+        {% elif level == 25 %}
+        {% include 'includes/toasts/toast_success.html' %}
+        {% else %}
+        {% include 'includes/toasts/toast_info.html' %}
+        {% endif %}
+        {% endwith %}
+        {% endfor %}
+    </div>
     {% endif %}
 
-    {% block page_header %}
-    {% endblock %}
+    <main>
+        {% block page_header %}
+        {% endblock %}
 
-    {% block content %}
-    {% endblock %}
+        {% block content %}
+        {% endblock %}
+    </main>
 
+
+    <!-- Footer elements are placed in a separate partial HTML file -->
     <footer>
-      <div class="footer position-relative mt-auto py-3 bg-dark">
-        <div class="container">
-            <div class="col-12 text-center">
-                <!-- Social Media Section -->
-                <div class="divider"></div>
-                <div class="section social-media">
-                    <h5 class="font-weight-bold text-white">Join the conversation</h5>
-                    <ul class="list-inline">
-                        <li class="list-inline-item mr-3 text-white">
-                            <a href="https://www.facebook.com/" class="text-white" target="_blank" rel="noreferrer">
-                                <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                <span class="sr-only">Facebook</span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item mr-3">
-                            <a href="https://twitter.com/" class="text-white" target="_blank" rel="noreferrer">
-                                <i class="fab fa-twitter" aria-hidden="true"></i>
-                                <span class="sr-only">Twitter</span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item mr-3">
-                            <a href="https://www.instagram.com/" class="text-white" target="_blank" rel="noreferrer">
-                                <i class="fab fa-instagram" aria-hidden="true"></i>
-                                <span class="sr-only">Instagram</span>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="https://www.youtube.com/" class="text-white" target="_blank" rel="noreferrer">
-                                <i class="fab fa-youtube" aria-hidden="true"></i>
-                                <span class="sr-only">YouTube</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <!-- Copyright statement section -->
-                <hr class="bg-light">
-                <div class="">
-                    <p class="text-white">
-                        Created for educational purposes only as a coursework project submission.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+        {% include 'includes/footer.html' %}
     </footer>
 
-
-    {% block postloadjs%}
+    {% block postloadjs %}
+    <script>
+        $('.toast').toast('show');
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        });
+    </script>
     {% endblock %}
-  </body>
+
+
+</body>
+
 </html>
