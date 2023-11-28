@@ -1,0 +1,33 @@
+[{
+    "model": "products.mastercategory",
+    "pk": 1,
+    "fields": {
+      "name": "accessories",
+      "display_name": "Accessories"
+    }
+  },
+  {
+    "model": "products.mastercategory",
+    "pk": 2,
+    "fields": {
+      "name": "apparel",
+      "display_name": "Apparel"
+    }
+  },
+  {
+    "model": "products.mastercategory",
+    "pk": 3,
+    "fields": {
+      "name": "footwear",
+      "display_name": "Footwear"
+    }
+  },
+  {
+    "model": "products.mastercategory",
+    "pk": 4,
+    "fields": {
+      "name": "sporting_goods",
+      "display_name": "Sporting Goods"
+    }
+  }
+]
