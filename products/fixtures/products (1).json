@@ -5,8 +5,8 @@
             "price": "12.47",
             "discount_price": "6.23",
             "sku": "6814201",
-            "name": "Big Cat Backpack",
-            "product_description": "Puma Big Cat Backpack Black",
+            "name": "Puma Backpack",
+            "product_description": "Puma Backpack Black",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -20,8 +20,8 @@
             "price": "33.59",
             "discount_price": "16.79",
             "sku": "10186701",
-            "name": "Ballistic Rubber Shoe",
-            "product_description": "Puma Men's Ballistic Rubber Shoe",
+            "name": "Puma Rubber Shoe",
+            "product_description": "Puma Rubber Shoe Men's",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -35,8 +35,8 @@
             "price": "9.59",
             "discount_price": "4.79",
             "sku": "8149001",
-            "name": "Trainer-WBL Football",
-            "product_description": "Puma Cat Trainer-WBL Football",
+            "name": "Puma Training Football",
+            "product_description": "Puma Trainer-WBL Football",
             "sizes": false,
             "master_category": 4,
             "special_offer": 1,
@@ -50,8 +50,8 @@
             "price": "9.59",
             "discount_price": "4.79",
             "sku": "8149002",
-            "name": "Trainer-OB Football",
-            "product_description": "Puma Power Cat Trainer-OB Football",
+            "name": "Puma-OB Football",
+            "product_description": "Puma Trainer-OB Football",
             "sizes": false,
             "master_category": 4,
             "special_offer": 1,
@@ -65,8 +65,8 @@
             "price": "9.59",
             "discount_price": "4.79",
             "sku": "8149004",
-            "name": "Trainer-WR Football",
-            "product_description": "Puma Power Cat Trainer-WR Football",
+            "name": "Puma Trainer-WR Football",
+            "product_description": "Puma Trainer-WR Football",
             "sizes": false,
             "master_category": 4,
             "special_offer": 1,
@@ -80,8 +80,8 @@
             "price": "9.59",
             "discount_price": "4.79",
             "sku": "8140904",
-            "name": "Hard Ground Football",
-            "product_description": "Puma Power Cat Hard Ground Football",
+            "name": "Hard floor Football",
+            "product_description": "Puma Hard floor Football",
             "sizes": false,
             "master_category": 4,
             "special_offer": 1,
@@ -95,8 +95,8 @@
             "price": "2.39",
             "discount_price": "1.19",
             "sku": "573579",
-            "name": "Blue Sipper",
-            "product_description": "Quechua  Blue Sipper",
+            "name": "Blue water bottle",
+            "product_description": "Blue water bottle",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -110,8 +110,8 @@
             "price": "4.99",
             "discount_price": "2.49",
             "sku": "573581",
-            "name": "Red Sipper",
-            "product_description": "Quechua Red Sipper",
+            "name": "Red water bottle",
+            "product_description": "red water bottler",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -126,7 +126,7 @@
             "discount_price": "3.37",
             "sku": "969536",
             "name": "Blue Water Bottle",
-            "product_description": "Quechua Easy-to-Carry Blue Water Bottle",
+            "product_description": "Blue Water Bottle",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -140,8 +140,8 @@
             "price": "9.59",
             "discount_price": "4.79",
             "sku": "1262117",
-            "name": "Black Tennis Shorts",
-            "product_description": "Artengo Men Black Tennis Shorts",
+            "name": "Men's Tennis Shorts",
+            "product_description": "Men's Black Tennis Shorts",
             "sizes": true,
             "master_category": 2,
             "special_offer": 1,
@@ -155,8 +155,8 @@
             "price": "11.50",
             "discount_price": "5.75",
             "sku": "1096645",
-            "name": "Super Soft Sports Shoes",
-            "product_description": "Kalenji Men's Super Soft Sports Shoes",
+            "name": "Sports Shoes",
+            "product_description": "Men's Soft Sports Shoes",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -170,8 +170,8 @@
             "price": "9.99",
             "discount_price": "4.99",
             "sku": "1255123",
-            "name": "Athletes Grey Track Pants",
-            "product_description": "Kalenji Women Athletes Grey Track Pants",
+            "name": "Grey Track Pants",
+            "product_description": "Women's Grey Track Pants",
             "sizes": true,
             "master_category": 2,
             "special_offer": 1,
@@ -185,8 +185,8 @@
             "price": "20.99",
             "discount_price": "10.49",
             "sku": "1123382",
-            "name": "Superfit Football White Shoe",
-            "product_description": "Kipsta Men Superfit Football White Shoe",
+            "name": "Football boots White",
+            "product_description": "Men Superfit white Football boots",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -200,8 +200,8 @@
             "price": "14.39",
             "discount_price": "7.19",
             "sku": "1128768",
-            "name": "F300 Soccer Shoe",
-            "product_description": "Kipsta Men's F300 Football Shoe",
+            "name": "F300 Soccer boots",
+            "product_description": "Men's F300 Football boots",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -215,8 +215,8 @@
             "price": "5.75",
             "discount_price": "2.87",
             "sku": "1220858",
-            "name": "Mesh Light-weight Shoe",
-            "product_description": "Newfeel Unisex Grey Mesh Lightweight Shoe",
+            "name": "Mesh Light-weight trianer",
+            "product_description": "Unisex Grey Mesh Lightweight trainer",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -230,8 +230,8 @@
             "price": "6.75",
             "discount_price": "3.37",
             "sku": "969542",
-            "name": "Pink Sipper",
-            "product_description": "Quechua Easy-to-Carry Pink Sipper",
+            "name": "Pink water bottle",
+            "product_description": "Easy-to-Carry Pink water bottle",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -245,8 +245,8 @@
             "price": "14.50",
             "discount_price": "6.47",
             "sku": "I10360",
-            "name": "trackpant- female",
-            "product_description": "Reebok Track Pants Women Blue",
+            "name": "women's jogger's",
+            "product_description": "jogger's Women Blue",
             "sizes": true,
             "master_category": 2,
             "special_offer": 4,
@@ -260,8 +260,8 @@
             "price": "14.50",
             "discount_price": "7.25",
             "sku": "I10365",
-            "name": "trackpant- female",
-            "product_description": "Reebok Black Track Pant",
+            "name": "joggers",
+            "product_description": "Black joggers",
             "sizes": true,
             "master_category": 2,
             "special_offer": 4,
@@ -275,8 +275,8 @@
             "price": "14.50",
             "discount_price": "7.25",
             "sku": "I19733",
-            "name": "trackpant- male",
-            "product_description": "Reebok Men trackpant- male Track Pants",
+            "name": "Men's tracksuit bottoms",
+            "product_description": "Men traclsuit bottoms",
             "sizes": true,
             "master_category": 2,
             "special_offer": 4,
@@ -290,8 +290,8 @@
             "price": "14.50",
             "discount_price": "7.25",
             "sku": "I19732",
-            "name": "trackpant- male",
-            "product_description": "Reebok Track Pants Jet Black",
+            "name": "men's tracksuit bottoms",
+            "product_description": "Tracksuit bottoms Jet Black",
             "sizes": true,
             "master_category": 2,
             "special_offer": 4,
@@ -305,8 +305,8 @@
             "price": "8.99",
             "discount_price": "4.49",
             "sku": "I25912",
-            "name": "Micro Shorts",
-            "product_description": "Reebok Men Micro Shorts Grey and White",
+            "name": "Shorts",
+            "product_description": "Men's Micro Shorts Grey and White",
             "sizes": true,
             "master_category": 2,
             "special_offer": 1,
@@ -321,7 +321,7 @@
             "discount_price": "5.99",
             "sku": "I16197",
             "name": "Red Bag",
-            "product_description": "Reebok Unisex Red Backpack",
+            "product_description": "Unisex Red Backpack",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -336,7 +336,7 @@
             "discount_price": "7.49",
             "sku": "R406192",
             "name": "silver/grey bag",
-            "product_description": "Reebok Silver-Black Laptop Backpack",
+            "product_description": "Silver-Black Laptop Backpack",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -351,7 +351,7 @@
             "discount_price": "2.99",
             "sku": "1128498",
             "name": "F300 Football Size 55",
-            "product_description": "Kipsta F300 Football Size 5 Football",
+            "product_description": "F300 Football Size 5 Football",
             "sizes": false,
             "master_category": 4,
             "special_offer": 1,
@@ -366,7 +366,7 @@
             "discount_price": "4.99",
             "sku": "1128500",
             "name": "F300 Football",
-            "product_description": "Kipsta F300 Football",
+            "product_description": "F300 Football",
             "sizes": false,
             "master_category": 4,
             "special_offer": 1,
@@ -381,7 +381,7 @@
             "discount_price": "4.99",
             "sku": "1198296",
             "name": "Xtra Bounce Basketball",
-            "product_description": "Kipsta Xtra Bounce Basketball",
+            "product_description": "Xtra Bounce Basketball",
             "sizes": false,
             "master_category": 4,
             "special_offer": 1,
@@ -410,8 +410,8 @@
             "price": "5.75",
             "discount_price": "2.87",
             "sku": "1220757",
-            "name": "Newfeel Comfy Shoes",
-            "product_description": "Newfeel Unisex Red Comfy Shoes",
+            "name": "Comfy Shoes",
+            "product_description": "Unisex Red Comfy Shoes",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -426,7 +426,7 @@
             "discount_price": "22.99",
             "sku": "315713-161",
             "name": "Air Zoom Century",
-            "product_description": "Nike Men Air Zoom Century Shoes",
+            "product_description": "Men Air Zoom Century trainers",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -441,7 +441,7 @@
             "discount_price": "2.69",
             "sku": "247109",
             "name": "swimming Goggles",
-            "product_description": "Nabaiji Swimming Goggles Blue Black",
+            "product_description": "Swimming Goggles Blue Black",
             "sizes": true,
             "master_category": 4,
             "special_offer": 1,
@@ -455,8 +455,8 @@
             "price": "44.15",
             "discount_price": "22.07",
             "sku": "J20758",
-            "name": "Hex Run Pure Silver Shoe",
-            "product_description": "Reebok Men's Hex Run Pure Silver Shoe",
+            "name": "Pure Silver running Shoe",
+            "product_description": "Men's Running Silver Shoe",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -470,8 +470,8 @@
             "price": "34.55",
             "discount_price": "17.2",
             "sku": "R953408",
-            "name": "Men Winning Stride Shoe",
-            "product_description": "Reebok Men Winning Stride White Red",
+            "name": "Men Winning Stride trainer",
+            "product_description": "Men Winning Stride White Red trainer",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -485,8 +485,8 @@
             "price": "12.99",
             "discount_price": "6.49",
             "sku": "1212439",
-            "name": "Ultralight Backpack 16 ltr",
-            "product_description": "Quechua Unisex Ultralight 16 Ltr Green Backpack",
+            "name": "light Backpack 16 ltr",
+            "product_description": "Unisex light 16 Ltr Green Backpack",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -500,8 +500,8 @@
             "price": "5.75",
             "discount_price": "2.87",
             "sku": "1220720",
-            "name": "Newfeel Comfy Shoes",
-            "product_description": "Newfeel Unisex Comfy Cool Blue Shoe",
+            "name": "Comfy Shoes",
+            "product_description": "Unisex Comfy Cool Blue Shoe",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -515,8 +515,8 @@
             "price": "34.55",
             "discount_price": "17.29",
             "sku": "V57336",
-            "name": "Frisker LP Shoe",
-            "product_description": "Reebok Men's Frisker LP Shoe",
+            "name": "LP Shoe",
+            "product_description": "Men's Frisker LP Shoe",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -531,7 +531,7 @@
             "discount_price": "2.87",
             "sku": "1220666",
             "name": "NewFeel- Shoes Black",
-            "product_description": "Newfeel Unisex Black Lightweight Shoes",
+            "product_description": "Unisex Black Lightweight Shoes",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -545,8 +545,8 @@
             "price": "5.75",
             "discount_price": "2.87",
             "sku": "1220762",
-            "name": "Newfeel Unisex Green Sports Shoes",
-            "product_description": "Newfeel Unisex Green Sports Shoes",
+            "name": "Unisex Green Sports Shoes",
+            "product_description": "Unisex Green Sports Shoes",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -560,8 +560,8 @@
             "price": "5.75",
             "discount_price": "2.87",
             "sku": "1220846",
-            "name": "Newfeel- Shoes White",
-            "product_description": "Newfeel Unisex White Shoes",
+            "name": "Unisex White trianers",
+            "product_description": "Unisex White trainers",
             "sizes": true,
             "master_category": 3,
             "special_offer": 1,
@@ -681,7 +681,7 @@
             "discount_price": "1.99",
             "sku": "1101018",
             "name": "10L Black Bag",
-            "product_description": "Quechua Arpenaz 10L Black Bag",
+            "product_description": "Arpenaz 10L Black Bag",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -696,7 +696,7 @@
             "discount_price": "5.99",
             "sku": "1180726",
             "name": "Marine Blue Bag",
-            "product_description": "Newfeel Marine Blue Bag",
+            "product_description": "Marine Blue Bag",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -711,7 +711,7 @@
             "discount_price": "2.39",
             "sku": "1101026",
             "name": "10L Green Bag",
-            "product_description": "Quechua Limeted-Edition Arpenaz 10L Green Bag",
+            "product_description": "Limeted-Edition Arpenaz 10L Green Bag",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -726,7 +726,7 @@
             "discount_price": "8.39",
             "sku": "1180705",
             "name": "22L Brown Bag",
-            "product_description": "Newfeel Brown 22L Bag",
+            "product_description": "Brown 22L Bag",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -741,7 +741,7 @@
             "discount_price": "4.99",
             "sku": "1180724",
             "name": "22L Black Bag",
-            "product_description": "Newfeel 22L Black Bag",
+            "product_description": "22L Black Bag",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -756,7 +756,7 @@
             "discount_price": "6.99",
             "sku": "1212401",
             "name": "Black Solid Backpack",
-            "product_description": "Quechua Unisex Black Solid Backpack",
+            "product_description": "Unisex Black Solid Backpack",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -771,7 +771,7 @@
             "discount_price": "2.49",
             "sku": "1212396",
             "name": "10L Pink Bag",
-            "product_description": "Quechua Women 10L Pink Bag",
+            "product_description": "Women 10L Pink Bag",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -786,7 +786,7 @@
             "discount_price": "2.87",
             "sku": "684159",
             "name": "Baggy Black Shorts",
-            "product_description": "Kalenji Men Essential Baggy Black Shorts",
+            "product_description": "Men Essential Baggy Black Shorts",
             "sizes": true,
             "master_category": 2,
             "special_offer": 1,
@@ -801,7 +801,7 @@
             "discount_price": "3.49",
             "sku": "1212497",
             "name": "Print Water Bottle",
-            "product_description": "Quechua Aluminium Print Water Bottle",
+            "product_description": "Aluminium Print Water Bottle",
             "sizes": false,
             "master_category": 1,
             "special_offer": 1,
@@ -2673,15 +2673,11 @@
         "pk": 179,
         "fields": {
             "price": "10.99",
-            "discount_price": "9.49",
+            "discount_price": "5.49",
             "sku": "405960-100",
             "name": "White Polo T-shirt",
             "product_description": "Nike Mens White Polo T-shirt",
             "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
             "special_offer": 1,
             "image": "2312.jpg"
         }
@@ -2691,35 +2687,14 @@
         "pk": 180,
         "fields": {
             "price": "14.99",
-            "discount_price": "12.99",
+            "discount_price": "7.49",
             "sku": "407445-328",
             "name": "Green Polo T-shirt",
             "product_description": "Nike Womens Green Polo T-shirt",
             "sizes": true,
-            "gender": 2,
             "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
             "special_offer": 1,
             "image": "2313.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 181,
-        "fields": {
-            "price": "9.99",
-            "discount_price": "8.99",
-            "sku": "409894-010",
-            "name": "Mens JDI Black T-shirt",
-            "product_description": "Nike Mens JDI Black T-shirt",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "2314.jpg"
         }
     },
     {
@@ -2727,15 +2702,12 @@
         "pk": 182,
         "fields": {
             "price": "9.99",
-            "discount_price": "8.99",
+            "discount_price": "4.99",
             "sku": "415335-609",
             "name": "Womens Cruiser Pink T-shirt",
             "product_description": "Nike Womens Cruiser Pink T-shirt",
             "sizes": true,
-            "gender": 2,
             "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
             "special_offer": 1,
             "image": "2315.jpg"
         }
@@ -2745,15 +2717,12 @@
         "pk": 183,
         "fields": {
             "price": "5.99",
-            "discount_price": "5.99",
+            "discount_price": "2.99",
             "sku": "417260-392",
             "name": "Mens Athletic Green T-shirt",
             "product_description": "Nike Mens Athletic Green T-shirt",
             "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
+            "master_category": 2
             "special_offer": 1,
             "image": "2316.jpg"
         }
@@ -2763,15 +2732,12 @@
         "pk": 184,
         "fields": {
             "price": "5.99",
-            "discount_price": "5.99",
+            "discount_price": "2.99",
             "sku": "417260-452",
             "name": "Mens Athletic Navy Blue T-shirt",
             "product_description": "Nike Men's Athletic Navy Blue T-shirt",
             "sizes": true,
-            "gender": 1,
             "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
             "special_offer": 1,
             "image": "2318.jpg"
         }
@@ -2781,15 +2747,12 @@
         "pk": 185,
         "fields": {
             "price": "34.99",
-            "discount_price": "31.99",
+            "discount_price": "17.49",
             "sku": "J82642",
             "name": "Mens Frisky Attraction Grey Shoe",
             "product_description": "Reebok Men Frisky Attraction Grey Shoe",
             "sizes": true,
-            "gender": 1,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
             "special_offer": 1,
             "image": "2353.jpg"
         }
@@ -2799,15 +2762,12 @@
         "pk": 186,
         "fields": {
             "price": "5.75",
-            "discount_price": "5.10",
+            "discount_price": "2.87",
             "sku": "279008",
             "name": "Black Bounce Unisex Basketball",
             "product_description": "ADIDAS Black Bounce Unisex Basketball",
             "sizes": false,
-            "gender": 3,
             "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
             "special_offer": 1,
             "image": "2354.jpg"
         }
@@ -2817,15 +2777,12 @@
         "pk": 187,
         "fields": {
             "price": "7.99",
-            "discount_price": "6.99",
+            "discount_price": "3.99",
             "sku": "E42358",
             "name": "Red Bull Trophy Soccer Unisex Football",
             "product_description": "ADIDAS Red Bull Trophy Soccer Unisex Football",
             "sizes": false,
-            "gender": 3,
             "master_category": 4,
-            "sub_category": 10,
-            "article_type": 8,
             "special_offer": 1,
             "image": "2355.jpg"
         }
@@ -2835,15 +2792,12 @@
         "pk": 188,
         "fields": {
             "price": "5.75",
-            "discount_price": "5.19",
+            "discount_price": "2.87",
             "sku": "P82170",
             "name": "Black & White Unisex Basketball",
             "product_description": "ADIDAS Black & White Unisex Basketball",
             "sizes": false,
-            "gender": 3,
             "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
             "special_offer": 1,
             "image": "2356.jpg"
         }
@@ -2853,15 +2807,12 @@
         "pk": 189,
         "fields": {
             "price": "2.49",
-            "discount_price": "2.15",
+            "discount_price": "1.24",
             "sku": "V00133",
             "name": "White Water Sipper",
             "product_description": "ADIDAS White Water Sipper",
             "sizes": false,
-            "gender": 3,
             "master_category": 1,
-            "sub_category": 12,
-            "article_type": 14,
             "special_offer": 1,
             "image": "2357.jpg"
         }
@@ -2871,15 +2822,12 @@
         "pk": 190,
         "fields": {
             "price": "13.99",
-            "discount_price": "13.45",
+            "discount_price": "6.99",
             "sku": "E17564",
             "name": "Red Men Cap",
             "product_description": "ADIDAS Red Men Cap",
             "sizes": false,
-            "gender": 1,
             "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
             "special_offer": 1,
             "image": "2358.jpg"
         }
@@ -2889,15 +2837,12 @@
         "pk": 191,
         "fields": {
             "price": "13.99",
-            "discount_price": "13.45",
+            "discount_price": "6.99",
             "sku": "E17576",
             "name": "Navy Blue Men Cap",
             "product_description": "ADIDAS Navy Blue Men Cap",
             "sizes": false,
-            "gender": 1,
             "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
             "special_offer": 1,
             "image": "2359.jpg"
         }
@@ -2907,15 +2852,12 @@
         "pk": 192,
         "fields": {
             "price": "16.99",
-            "discount_price": "16.05",
+            "discount_price": "8.49",
             "sku": "P42594",
             "name": "White Cap",
             "product_description": "ADIDAS White Cap",
             "sizes": false,
-            "gender": 3,
             "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
             "special_offer": 1,
             "image": "2360.jpg"
         }
@@ -2925,15 +2867,12 @@
         "pk": 193,
         "fields": {
             "price": "16.99",
-            "discount_price": "16.49",
+            "discount_price": "6.49",
             "sku": "P93981",
             "name": "Black Cap",
             "product_description": "ADIDAS Black Cap",
             "sizes": false,
-            "gender": 3,
             "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
             "special_offer": 1,
             "image": "2362.jpg"
         }
@@ -2943,15 +2882,12 @@
         "pk": 194,
         "fields": {
             "price": "16.99",
-            "discount_price": "16.49",
+            "discount_price": "8.49",
             "sku": "V00346",
             "name": "Black Backpack",
             "product_description": "ADIDAS Black Backpack",
             "sizes": false,
-            "gender": 3,
             "master_category": 1,
-            "sub_category": 3,
-            "article_type": 1,
             "special_offer": 1,
             "image": "2363.jpg"
         }
@@ -2961,15 +2897,12 @@
         "pk": 195,
         "fields": {
             "price": "16.99",
-            "discount_price": "16.49",
+            "discount_price": "8.49",
             "sku": "V35832",
             "name": "Blue Cap",
             "product_description": "ADIDAS Blue Cap",
             "sizes": false,
-            "gender": 3,
             "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
             "special_offer": 1,
             "image": "2364.jpg"
         }
@@ -2979,15 +2912,12 @@
         "pk": 196,
         "fields": {
             "price": "9.99",
-            "discount_price": "8.99",
+            "discount_price": "4.99",
             "sku": "V42374",
             "name": "Pink Women Bag",
             "product_description": "ADIDAS Pink Women Bag",
             "sizes": false,
-            "gender": 2,
             "master_category": 1,
-            "sub_category": 3,
-            "article_type": 9,
             "special_offer": 1,
             "image": "2365.jpg"
         }
@@ -2997,15 +2927,12 @@
         "pk": 197,
         "fields": {
             "price": "10.99",
-            "discount_price": "9.59",
+            "discount_price": "5.49",
             "sku": "V42535",
             "name": "Black Girls Backpack",
             "product_description": "ADIDAS Black Girls Backpack",
             "sizes": false,
-            "gender": 5,
             "master_category": 1,
-            "sub_category": 3,
-            "article_type": 1,
             "special_offer": 1,
             "image": "2366.jpg"
         }
@@ -3015,15 +2942,12 @@
         "pk": 198,
         "fields": {
             "price": "13.99",
-            "discount_price": "12.99",
+            "discount_price": "6.99",
             "sku": "IN 91440004",
             "name": "Women Commander White Pink Shoe",
             "product_description": "Puma Women Commander White Pink Shoe",
             "sizes": true,
-            "gender": 2,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
             "special_offer": 1,
             "image": "2489.jpg"
         }
@@ -3033,15 +2957,12 @@
         "pk": 199,
         "fields": {
             "price": "13.99",
-            "discount_price": "12.99",
+            "discount_price": "6.99",
             "sku": "IN 91440005",
             "name": "Women Commander White Blue Shoe",
             "product_description": "Puma Women Commander White Blue Shoe",
             "sizes": true,
-            "gender": 2,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
             "special_offer": 1,
             "image": "2490.jpg"
         }
@@ -3051,15 +2972,12 @@
         "pk": 200,
         "fields": {
             "price": "9.99",
-            "discount_price": "8.99",
+            "discount_price": "4.99",
             "sku": "NU-101 - BK",
             "name": "Casual Black Canvas Shoe",
             "product_description": "Numero Uno Unisex Casual Black Canvas Shoe",
             "sizes": true,
-            "gender": 1,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
             "special_offer": 1,
             "image": "2498.jpg"
         }
@@ -3069,15 +2987,12 @@
         "pk": 201,
         "fields": {
             "price": "20.99",
-            "discount_price": "18.15",
+            "discount_price": "10.49",
             "sku": "NU-101 - DG",
             "name": "Casual Brown Canvas Shoe",
             "product_description": "Numero Uno Unisex Casual Brown Canvas Shoe",
             "sizes": true,
-            "gender": 1,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
             "special_offer": 1,
             "image": "2499.jpg"
         }
@@ -3087,15 +3002,12 @@
         "pk": 202,
         "fields": {
             "price": "9.59",
-            "discount_price": "8.99",
+            "discount_price": "4.79",
             "sku": "NU-101 - N.BL",
             "name": "Casual Navy Blue Canvas Shoe",
             "product_description": "Numero Uno Unisex Casual Navy Blue Canvas Shoe",
             "sizes": true,
-            "gender": 1,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
             "special_offer": 1,
             "image": "2500.jpg"
         }
@@ -3105,15 +3017,12 @@
         "pk": 203,
         "fields": {
             "price": "9.59",
-            "discount_price": "8.99",
+            "discount_price": "4.79",
             "sku": "NU-101 - RED",
             "name": "Casual Red Canvas Shoe",
             "product_description": "Numero Uno Unisex Casual Red Canvas Shoe",
             "sizes": true,
-            "gender": 1,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
             "special_offer": 1,
             "image": "2501.jpg"
         }
@@ -3123,15 +3032,12 @@
         "pk": 204,
         "fields": {
             "price": "11.99",
-            "discount_price": "10.99",
+            "discount_price": "5.99",
             "sku": "NU-103 - BRN",
             "name": "Mens Casual Brown Canvas Shoe",
             "product_description": "Numero Uno Men's Casual Brown Canvas Shoe",
             "sizes": true,
-            "gender": 1,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
             "special_offer": 1,
             "image": "2503.jpg"
         }
@@ -3141,2987 +3047,14 @@
         "pk": 205,
         "fields": {
             "price": "11.99",
-            "discount_price": "10.99",
+            "discount_price": "5.99",
             "sku": "NU-103 - WHT",
             "name": "Mens Casual White Canvas Shoe",
             "product_description": "Numero Uno Men's Casual White Canvas Shoe",
             "sizes": true,
-            "gender": 1,
             "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
             "special_offer": 1,
             "image": "2504.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 206,
-        "fields": {
-            "price": "4.99",
-            "discount_price": "4.58",
-            "sku": "NUF-010 - GRN",
-            "name": "Casual Green Flip Flop",
-            "product_description": "Numero Uno Unisex Casual Green Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "2543.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 207,
-        "fields": {
-            "price": "4.99",
-            "discount_price": "4.58",
-            "sku": "NUF-010 - NV",
-            "name": "Casual Blue Flip Flop",
-            "product_description": "Numero Uno Unisex Casual Blue Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "2544.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 208,
-        "fields": {
-            "price": "4.99",
-            "discount_price": "4.58",
-            "sku": "NUF-010 - RED",
-            "name": "Casual Red Flip Flop",
-            "product_description": "Numero Uno Unisex Casual Red Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "2545.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 209,
-        "fields": {
-            "price": "4.99",
-            "discount_price": "4.58",
-            "sku": "NUF-012 - BK",
-            "name": "Mens Casual Black Graphic Flip Flop",
-            "product_description": "Numero Uno Men's Casual Black Graphic Flip Flop",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "2550.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 210,
-        "fields": {
-            "price": "4.99",
-            "discount_price": "4.58",
-            "sku": "NUF-012 - GRN",
-            "name": "Mens Casual Green Graphic Flip Flop",
-            "product_description": "Numero Uno Men's Casual Green Graphic Flip Flop",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "2551.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 211,
-        "fields": {
-            "price": "4.99",
-            "discount_price": "4.58",
-            "sku": "NUF-012 - NV",
-            "name": "Mens Casual Blue Graphic Flip Flop",
-            "product_description": "Numero Uno Men's Casual Blue Graphic Flip Flop",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "2552.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 212,
-        "fields": {
-            "price": "4.99",
-            "discount_price": "4.58",
-            "sku": "NUF-012 - RED",
-            "name": "Mens Casual Red Graphic Flip Flop",
-            "product_description": "Numero Uno Men's Casual Red Graphic Flip Flop",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "2553.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 213,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "B103I2A251YELLOW",
-            "name": "Mummy daddy me",
-            "product_description": "Doodle Boy Mummy daddy me Yellow Tshirts",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "10690.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 214,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "B103I2A252GREEN",
-            "name": "Little Boy",
-            "product_description": "Doodle Boy Little Boy Green Tshirts",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "10691.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 215,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "B103I2A249RED",
-            "name": "Casual",
-            "product_description": "Doodle Boy Casual Red Tshirts",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "10692.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 216,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "DJYSL 034 B",
-            "name": "Kids Basic",
-            "product_description": "Disney Unisex Kids Basic Black Flip Flops",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "10739.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 217,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "DJYSL 030 A",
-            "name": "Kids Pluto",
-            "product_description": "Disney Unisex Kids Pluto Green Flip Flops",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "10740.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 218,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "DJYSL 033 A",
-            "name": "Kids Mickey Mouse",
-            "product_description": "Disney Unisex Kids Mickey Mouse Yellow Flip Flops",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "10741.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 219,
-        "fields": {
-            "price": "2.87",
-            "discount_price": "2.58",
-            "sku": "DISH 003 B",
-            "name": "Kids Pooh Face",
-            "product_description": "Disney Kids Girl Pooh Face Orange Casual Shoes",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "10742.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 220,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "DJYSL 009 A",
-            "name": "Kids Only Mickey",
-            "product_description": "Disney Unisex Kids Only Mickey Red Flip Flops",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "10743.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 221,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "DJYSL 030 B",
-            "name": "Kids Pluto",
-            "product_description": "Disney Unisex Kids Pluto Navy Blue Flip Flops",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "10744.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 222,
-        "fields": {
-            "price": "2.20",
-            "discount_price": "1.98",
-            "sku": "DJYSL 011 C",
-            "name": "Kids Princess Heart",
-            "product_description": "Disney Unisex Kids Princess Heart Purple Flip Flops",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "10746.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 223,
-        "fields": {
-            "price": "31.63",
-            "discount_price": "28.47",
-            "sku": "423980-620",
-            "name": "Arsenal",
-            "product_description": "Nike Men Arsenal Red Jersey",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12790.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 224,
-        "fields": {
-            "price": "19.15",
-            "discount_price": "17.24",
-            "sku": "423934-623",
-            "name": "Manchester United",
-            "product_description": "Nike Men Manchester United Red Jerseys",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12791.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 225,
-        "fields": {
-            "price": "25.87",
-            "discount_price": "23.28",
-            "sku": "423940-010",
-            "name": "Man U",
-            "product_description": "Nike Men Manchester United Black Jersey",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12792.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 226,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "427507-613",
-            "name": "Blue Grafitti",
-            "product_description": "Nike Women Blue Grafitti Maroon Tshirts",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12793.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 227,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "426516-691",
-            "name": "White Print",
-            "product_description": "Nike Women White Print Pink Tshirts",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12794.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 228,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "427507-010",
-            "name": "Green Grafitti",
-            "product_description": "Nike Women Grafitti Black T-shirt",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12796.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 229,
-        "fields": {
-            "price": "31.63",
-            "discount_price": "28.47",
-            "sku": "423983-472",
-            "name": "Arsenal Forward",
-            "product_description": "Nike Men Arsenal Navy Blue Jersey",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12798.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 230,
-        "fields": {
-            "price": "31.63",
-            "discount_price": "28.47",
-            "sku": "423935-403",
-            "name": "Man U Stripe",
-            "product_description": "Nike Men Blue Manchester United Jersey",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "12799.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 231,
-        "fields": {
-            "price": "12.47",
-            "discount_price": "11.22",
-            "sku": "6818802",
-            "name": "Deck Backpack",
-            "product_description": "Puma Deck Navy Blue Backpack",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 1,
-            "special_offer": 1,
-            "image": "1525.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 232,
-        "fields": {
-            "price": "44.11",
-            "discount_price": "39.70",
-            "sku": "432938-212",
-            "name": "Solid Olive Tracksuits",
-            "product_description": "Nike Men Solid Olive Tracksuits",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 2,
-            "article_type": 21,
-            "special_offer": 1,
-            "image": "15337.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 233,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "455704-021",
-            "name": "Solid",
-            "product_description": "Nike Women Solid Grey Shorts",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 4,
-            "article_type": 11,
-            "special_offer": 1,
-            "image": "15339.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 234,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "455704-010",
-            "name": "Solid",
-            "product_description": "Nike Women Solid Black Shorts",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 4,
-            "article_type": 11,
-            "special_offer": 1,
-            "image": "15340.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 235,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "455704-605",
-            "name": "Solid",
-            "product_description": "Nike Women Solid Pink Shorts",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 4,
-            "article_type": 11,
-            "special_offer": 1,
-            "image": "15341.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 236,
-        "fields": {
-            "price": "42.19",
-            "discount_price": "37.97",
-            "sku": "427094-012",
-            "name": "Solid",
-            "product_description": "Nike Women Solid Black Tracksuits",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 2,
-            "article_type": 21,
-            "special_offer": 1,
-            "image": "15344.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 237,
-        "fields": {
-            "price": "2.87",
-            "discount_price": "2.58",
-            "sku": "GGWAT-CB07A",
-            "name": "Digital Pop Watch - Blue",
-            "product_description": "Chhota Bheem Digital Pop kids-Boys Blue Watch",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "18525.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 238,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "GGWAT-CB04A",
-            "name": "Analogue Watch",
-            "product_description": "Chhota Bheem Analog Kids-Boys Green Watch",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "18526.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 239,
-        "fields": {
-            "price": "2.87",
-            "discount_price": "2.58",
-            "sku": "GGWAT-CB08A",
-            "name": "Digital Pop Watch - Green",
-            "product_description": "Chhota Bheem Kids-Boys Green Digital Pop Watch",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "18528.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 240,
-        "fields": {
-            "price": "2.87",
-            "discount_price": "2.58",
-            "sku": "GGWAT-CB10A",
-            "name": "Digital Pop Watch - Red",
-            "product_description": "Chhota Bheem kids-Boys Red Digital Pop Watch",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "18529.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 241,
-        "fields": {
-            "price": "2.87",
-            "discount_price": "2.58",
-            "sku": "GGWAT-CB09A",
-            "name": "Digital Pop Watch - Orange",
-            "product_description": "Chhota Bheem Chutki Kids-Girls Orange Digital Watch",
-            "sizes": false,
-            "gender": 5,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "18530.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 242,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "GGWAT-CB06A",
-            "name": "Analogue Watch",
-            "product_description": "Chhota Bheem Chutki Kids-Girls Light Pink Watch",
-            "sizes": false,
-            "gender": 5,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "18533.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 243,
-        "fields": {
-            "price": "19.06",
-            "discount_price": "17.15",
-            "sku": "LC5301 BLUE",
-            "name": "LC casual Blue Denim shoes",
-            "product_description": "Lee Cooper Men's LC Casual Denim Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "2828.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 244,
-        "fields": {
-            "price": "18.10",
-            "discount_price": "16.29",
-            "sku": "LC5302 BLACK",
-            "name": "casual Canvas black shoes with lee cooper branding",
-            "product_description": "Lee Cooper Unisex Casual Canvas Black Shoe",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "2830.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 245,
-        "fields": {
-            "price": "18.10",
-            "discount_price": "16.29",
-            "sku": "LC5302 BLUE",
-            "name": "casual Blue canvas shoes with lee cooper branding",
-            "product_description": "Lee Cooper Women's Casual Blue Canvas Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "2831.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 246,
-        "fields": {
-            "price": "18.10",
-            "discount_price": "16.29",
-            "sku": "LC5302 BRICK",
-            "name": "casual brick colored canvas shoes with lee cooper",
-            "product_description": "Lee Cooper Women's Casual Brick Canvas Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "2832.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 247,
-        "fields": {
-            "price": "33.59",
-            "discount_price": "30.23",
-            "sku": "351026-11",
-            "name": "Basket II Biz-White-Dazzling-Blue",
-            "product_description": "Puma Men's Basket Biz White & Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "2963.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 248,
-        "fields": {
-            "price": "31.67",
-            "discount_price": "28.50",
-            "sku": "35129001-white-team green-2964",
-            "name": "Match Classics",
-            "product_description": "Puma Men's Match Classic White & Green Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "2964.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 249,
-        "fields": {
-            "price": "33.59",
-            "discount_price": "30.23",
-            "sku": "351664-02",
-            "name": "Excurse L WFS-White-Spectrum-Blue",
-            "product_description": "Puma Men's Excurse White Spectrum Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "2965.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 250,
-        "fields": {
-            "price": "26.87",
-            "discount_price": "24.18",
-            "sku": "352238-01 ",
-            "name": "Bencio Leather Drip Mood Indigo zinnia",
-            "product_description": "Puma Men's Bencio Leather White & Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "2966.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 251,
-        "fields": {
-            "price": "51.84",
-            "discount_price": "46.66",
-            "sku": "386365-015",
-            "name": "Black NIKE LUNARSWIFT+",
-            "product_description": "Nike Men's Lunarswift Black Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3150.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 252,
-        "fields": {
-            "price": "51.84",
-            "discount_price": "46.66",
-            "sku": "386365-414",
-            "name": "Blue NIKE LUNARSWIFT+",
-            "product_description": "Nike Men's Lunarswift Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3151.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 253,
-        "fields": {
-            "price": "43.20",
-            "discount_price": "38.88",
-            "sku": "395820-011",
-            "name": "Grey AIR ALVORD 8",
-            "product_description": "Nike Men's Air Alvord Grey Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3152.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 254,
-        "fields": {
-            "price": "43.20",
-            "discount_price": "38.88",
-            "sku": "395835-006",
-            "name": "Black NIKE AIR VISI SLEEK",
-            "product_description": "Nike Men's Air Visi Sleek Black Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3154.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 255,
-        "fields": {
-            "price": "38.35",
-            "discount_price": "34.52",
-            "sku": "407853-104",
-            "name": "White NIKE DUAL FUSION ST",
-            "product_description": "Nike Men's Dual Fusion White Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3160.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 256,
-        "fields": {
-            "price": "28.75",
-            "discount_price": "25.88",
-            "sku": "415362-005",
-            "name": "White Blue WMNS NIKE DOWNSHIFTER 3 MSL",
-            "product_description": "Nike Women Downshifter White Blue Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3162.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 257,
-        "fields": {
-            "price": "28.75",
-            "discount_price": "25.88",
-            "sku": "415362-007",
-            "name": "Grey Black WMNS NIKE DOWNSHIFTER 3 MSL",
-            "product_description": "Nike Women Downshifter Grey Black Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3163.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 258,
-        "fields": {
-            "price": "40.32",
-            "discount_price": "36.29",
-            "sku": "429717-002 ",
-            "name": "Black Red NIKE AIR COURT LEADER LOW",
-            "product_description": "Nike Men's Air Court Leader Low Black Red Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3165.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 259,
-        "fields": {
-            "price": "25.92",
-            "discount_price": "23.33",
-            "sku": "429863-100 ",
-            "name": "White Blue WMNS NIKE MAIN DRAW SL",
-            "product_description": "Nike Women Main Draw White Blue Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3167.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 260,
-        "fields": {
-            "price": "31.68",
-            "discount_price": "28.51",
-            "sku": "431840-101",
-            "name": "White Blue NIKE INCINERATE MSL",
-            "product_description": "Nike Men's Incinerate MSL White Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3168.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 261,
-        "fields": {
-            "price": "30.72",
-            "discount_price": "27.65",
-            "sku": "314956-106 ",
-            "name": "White WMNS NIKE CAPRI",
-            "product_description": "Nike Women White Vulcanized Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3170.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 262,
-        "fields": {
-            "price": "45.12",
-            "discount_price": "40.61",
-            "sku": "325018-025 ",
-            "name": "White Grey AIR MAX 90",
-            "product_description": "Nike Men's Air Max White Grey Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3171.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 263,
-        "fields": {
-            "price": "45.12",
-            "discount_price": "40.61",
-            "sku": "395822-005",
-            "name": "Black AIR COMPEL",
-            "product_description": "Nike Men's Air Compel Black Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3175.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 264,
-        "fields": {
-            "price": "38.35",
-            "discount_price": "34.52",
-            "sku": "407847-105 ",
-            "name": "White Pink WMNS NIKE DUAL FUSION ST",
-            "product_description": "Nike Women Dual Fusion White Pink Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3178.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 265,
-        "fields": {
-            "price": "59.52",
-            "discount_price": "53.57",
-            "sku": "429784-016",
-            "name": "Grey Red NIKE LUNARELITE+ 2",
-            "product_description": "Nike Men's Lunarelite Grey Red Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3181.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 266,
-        "fields": {
-            "price": "59.52",
-            "discount_price": "53.57",
-            "sku": "429784-110",
-            "name": "Black Green NIKE LUNARELITE+ 2",
-            "product_description": "Nike Men's Lunarelite Black Green Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3182.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 267,
-        "fields": {
-            "price": "25.92",
-            "discount_price": "23.33",
-            "sku": "429864-101 ",
-            "name": "White NIKE MAIN DRAW SL",
-            "product_description": "Nike Men's Main Draw White Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3186.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 268,
-        "fields": {
-            "price": "31.68",
-            "discount_price": "28.51",
-            "sku": "431840-102",
-            "name": "White Black NIKE INCINERATE MSL",
-            "product_description": "Nike Men's Incinerate MSL White Black Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3187.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 269,
-        "fields": {
-            "price": "28.75",
-            "discount_price": "25.88",
-            "sku": "370598-111 ",
-            "name": "White Pink WMNS SWEET CLASSIC SL 09",
-            "product_description": "Nike Women Sweet Classic White Pink Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3212.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 270,
-        "fields": {
-            "price": "28.75",
-            "discount_price": "25.88",
-            "sku": "370598-112 ",
-            "name": "White Light Green WMNS SWEET CLASSIC SL 09",
-            "product_description": "Nike Women Sweet Classic White Light Green Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3213.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 271,
-        "fields": {
-            "price": "47.99",
-            "discount_price": "43.19",
-            "sku": "T038N.0159",
-            "name": "Asics Men's White Blue SPORT SHOE RUNNING",
-            "product_description": "Asics Men's Sport GEL Pulse 2 White Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3296.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 272,
-        "fields": {
-            "price": "47.99",
-            "discount_price": "43.19",
-            "sku": "T038N.9328",
-            "name": "Asics Men's Silver Red SPORT SHOE RUNNING",
-            "product_description": "Asics Men's Sport Running Gel-Pulse 2 Silver Red Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3297.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 273,
-        "fields": {
-            "price": "47.99",
-            "discount_price": "43.19",
-            "sku": "T088N.0100",
-            "name": "Asics Men's White SPORT SHOE RUNNING",
-            "product_description": "Asics Women Sport Gel Pulse 2 Blue White Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3298.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 274,
-        "fields": {
-            "price": "79.67",
-            "discount_price": "71.70",
-            "sku": "T100N.0155",
-            "name": "Asics Men's White Blue PERFORMANCE RUNNING",
-            "product_description": "Asics Men's Gel Kayano 17 White Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3302.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 275,
-        "fields": {
-            "price": "79.67",
-            "discount_price": "71.70",
-            "sku": "T150N.0191",
-            "name": "Asics Men's White Silver Blue PERFORMANCE R",
-            "product_description": "Asics Women Gel Kayano 17 White Silver Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3304.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 276,
-        "fields": {
-            "price": "53.75",
-            "discount_price": "48.38",
-            "sku": "E102Y. 0160",
-            "name": "Asics Men's White Blue TENNIS",
-            "product_description": "Asics Men's Gel Challenger 8 Tennis White Blue Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3309.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 277,
-        "fields": {
-            "price": "38.39",
-            "discount_price": "34.55",
-            "sku": "T172N.0134",
-            "name": "Asics Women's White Pink Lime ACTIVE RUNNING",
-            "product_description": "Asics Women Gel Cushioning White Pink Lime Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3310.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 278,
-        "fields": {
-            "price": "38.39",
-            "discount_price": "34.55",
-            "sku": "T172N.9291",
-            "name": "Asics Women's Silver Blue ACTIVE RUNNING",
-            "product_description": "Asics Women Gel Cushioning Running Silver Blue Shoe",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 13,
-            "special_offer": 1,
-            "image": "3311.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 279,
-        "fields": {
-            "price": "17.27",
-            "discount_price": "15.54",
-            "sku": "L39457",
-            "name": "BLACK-RED SANDALS",
-            "product_description": "ADIDAS Women Spry Black Red Sandal",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 3,
-            "sub_category": 7,
-            "article_type": 10,
-            "special_offer": 1,
-            "image": "3487.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 280,
-        "fields": {
-            "price": "41.27",
-            "discount_price": "37.14",
-            "sku": "G44678",
-            "name": "Adidas Men's Jawpaw Black Metal Shoe",
-            "product_description": "ADIDAS Men's Jawpaw Black Metal Shoe",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "3488.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 281,
-        "fields": {
-            "price": "28.79",
-            "discount_price": "25.91",
-            "sku": "U41589",
-            "name": "BLUE  SHOES",
-            "product_description": "ADIDAS Boy's Jawpaw Blue Shoe",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 3,
-            "sub_category": 8,
-            "article_type": 5,
-            "special_offer": 1,
-            "image": "3489.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 282,
-        "fields": {
-            "price": "18.23",
-            "discount_price": "16.41",
-            "sku": "L39456",
-            "name": "Adidas Women Spry Dark Navy Black Sandal",
-            "product_description": "ADIDAS Women Spry Dark Navy Black Sandal",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 3,
-            "sub_category": 7,
-            "article_type": 10,
-            "special_offer": 1,
-            "image": "3490.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 283,
-        "fields": {
-            "price": "19.19",
-            "discount_price": "17.27",
-            "sku": "L12477",
-            "name": "RED-BLACK SANDALS",
-            "product_description": "ADIDAS Men Hispana Red Black Sandal",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 3,
-            "sub_category": 7,
-            "article_type": 10,
-            "special_offer": 1,
-            "image": "3491.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 284,
-        "fields": {
-            "price": "4.79",
-            "discount_price": "4.31",
-            "sku": "5D-Beige Navy Red",
-            "name": "Tshirts",
-            "product_description": "Campbell Men Pack of 3 T-shirts",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "37154.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 285,
-        "fields": {
-            "price": "3.64",
-            "discount_price": "3.27",
-            "sku": "1113102",
-            "name": "Dsiney Boys Green Mickey Ship tee",
-            "product_description": "Disney Kids Boy's Green Mickey Ship Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3806.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 286,
-        "fields": {
-            "price": "3.64",
-            "discount_price": "3.27",
-            "sku": "1113102 Red",
-            "name": "Dsiney Boys Red Mickey Ship tee",
-            "product_description": "Disney Kids Boy's Red Mickey Ship Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3807.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 287,
-        "fields": {
-            "price": "3.35",
-            "discount_price": "3.02",
-            "sku": "1113139 Red",
-            "name": "Disney Boys pooh and Tiger Red Tee",
-            "product_description": "Disney Kids Boy's Pooh And Tiger Red Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3811.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 288,
-        "fields": {
-            "price": "3.16",
-            "discount_price": "2.84",
-            "sku": "1113181",
-            "name": "Disney Boys Street Crew Blue Tee",
-            "product_description": "Disney Kids Boy's Street Crew Blue Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3814.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 289,
-        "fields": {
-            "price": "3.16",
-            "discount_price": "2.84",
-            "sku": "1113183 Orange",
-            "name": "Disney boys orange Just Cruising tee",
-            "product_description": "Disney Kids Boy's Orange Just Cruising Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3815.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 290,
-        "fields": {
-            "price": "3.16",
-            "discount_price": "2.84",
-            "sku": "1113183",
-            "name": "Disney boys blue Just Cruising tee",
-            "product_description": "Disney Kids Boy's Blue Just Cruising Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3816.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 291,
-        "fields": {
-            "price": "4.31",
-            "discount_price": "3.88",
-            "sku": "1113206",
-            "name": "Disney  Boys Yellow Squirrel tee",
-            "product_description": "Disney Kids Boy's Yellow Squirrel Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3817.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 292,
-        "fields": {
-            "price": "3.35",
-            "discount_price": "3.02",
-            "sku": "1113209",
-            "name": "Disney Boys Green Pooh and Tiger Tee",
-            "product_description": "Disney Kids Boy's Green Pooh Tiger Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3818.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 293,
-        "fields": {
-            "price": "2.68",
-            "discount_price": "2.41",
-            "sku": "1113301",
-            "name": "Disney Girl Minnie summer time Pink top",
-            "product_description": "Disney Kids Girl's Minnie Summer Time Pink Top",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "3819.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 294,
-        "fields": {
-            "price": "2.68",
-            "discount_price": "2.41",
-            "sku": "1113301 White",
-            "name": "Disney Girl Minnie summer time white top",
-            "product_description": "Disney Kids Girl's Minnie Summer Time White Top",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 17,
-            "special_offer": 1,
-            "image": "3820.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 295,
-        "fields": {
-            "price": "9.59",
-            "discount_price": "8.63",
-            "sku": "72 327Z-Nash Rubber Jerssey",
-            "name": "nash Basketball",
-            "product_description": "Spalding Unisex Nash Orange Basketball",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
-            "special_offer": 1,
-            "image": "4007.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 296,
-        "fields": {
-            "price": "8.63",
-            "discount_price": "7.77",
-            "sku": "73 257Z-2009 NBA Recycle Ochre/gree",
-            "name": "Ochre basketball",
-            "product_description": "Spalding Unisex Ochre Yellow Basketball",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
-            "special_offer": 1,
-            "image": "4008.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 297,
-        "fields": {
-            "price": "6.71",
-            "discount_price": "6.04",
-            "sku": "73 417Z-2009 NBA 4HER BLUE SZ6",
-            "name": "NBA4HER Basketball",
-            "product_description": "Spalding Blue Basketball",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
-            "special_offer": 1,
-            "image": "4009.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 298,
-        "fields": {
-            "price": "4.79",
-            "discount_price": "4.31",
-            "sku": "63 684Z-TF 150 SZ 7 BASKETBALL",
-            "name": "150 SZ Basketball",
-            "product_description": "Spalding 150 SZ Brown Basketball",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
-            "special_offer": 1,
-            "image": "4010.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 299,
-        "fields": {
-            "price": "7.19",
-            "discount_price": "6.47",
-            "sku": "73-419Z 2009 NBA 4 HER BUR/OR/GRAY",
-            "name": "NBA4HER buror Basketball",
-            "product_description": "Spalding Buror Grey Basketball",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
-            "special_offer": 1,
-            "image": "4011.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 300,
-        "fields": {
-            "price": "6.71",
-            "discount_price": "6.04",
-            "sku": "73-508Z 10 NBA Team Spurs SZ7",
-            "name": "508z Basketball",
-            "product_description": "Spalding 508z Black Basketball",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
-            "special_offer": 3,
-            "image": "4012.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 301,
-        "fields": {
-            "price": "10.55",
-            "discount_price": "9.50",
-            "sku": "74-177Z 07 NBA SCHOOL RD/SIL PVC S7",
-            "name": "177z NBA School",
-            "product_description": "Spalding  177z NBA School Brown Basketball",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 2,
-            "special_offer": 3,
-            "image": "4013.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 302,
-        "fields": {
-            "price": "8.59",
-            "discount_price": "7.73",
-            "sku": "595510-051",
-            "name": "Nike Dry Fit Caps",
-            "product_description": "Nike Unisex Dry Fit Navy Blue Cap",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
-            "special_offer": 1,
-            "image": "4449.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 303,
-        "fields": {
-            "price": "8.59",
-            "discount_price": "7.73",
-            "sku": "405631-605",
-            "name": "Nike ARSENAL Cap",
-            "product_description": "Nike Unisex Arsenal  Red White Cap",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
-            "special_offer": 1,
-            "image": "4450.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 304,
-        "fields": {
-            "price": "9.55",
-            "discount_price": "8.60",
-            "sku": "371202-050",
-            "name": "Nike Rodger Federer Blue Cap",
-            "product_description": "Nike Unisex Rodger Federer Blue Grey White Cap",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
-            "special_offer": 1,
-            "image": "4452.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 305,
-        "fields": {
-            "price": "9.55",
-            "discount_price": "8.60",
-            "sku": "371202-104",
-            "name": "Nike Rodger Federer White Cap",
-            "product_description": "Nike Unisex Rodger Federer White Grey Red Cap",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 6,
-            "article_type": 4,
-            "special_offer": 1,
-            "image": "4453.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 306,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "5.68",
-            "sku": "8903338210108",
-            "name": "Wildcraft W Blue",
-            "product_description": "Wildcraft Blue & Grey Printed Tote Bag",
-            "sizes": false,
-            "gender": 2,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 9,
-            "special_offer": 1,
-            "image": "4603.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 307,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "3.78",
-            "sku": "8903338005537",
-            "name": "Wildcraft W Pink",
-            "product_description": "Wildcraft Pink & Grey Printed Tote Bag",
-            "sizes": false,
-            "gender": 2,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 9,
-            "special_offer": 1,
-            "image": "4604.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 308,
-        "fields": {
-            "price": "12.43",
-            "discount_price": "4.48",
-            "sku": "8903338004974",
-            "name": "Jinx Green",
-            "product_description": "Wildcraft Unisex Green & Grey Printed Sling Bag",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 9,
-            "special_offer": 1,
-            "image": "4613.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 309,
-        "fields": {
-            "price": "12.43",
-            "discount_price": "4.48",
-            "sku": "8903338004981",
-            "name": "WildcraftJinx Light Blue",
-            "product_description": "Wildcraft Unisex Blue & Grey Printed Sling Bag",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 9,
-            "special_offer": 1,
-            "image": "4614.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 310,
-        "fields": {
-            "price": "26.83",
-            "discount_price": "24.15",
-            "sku": "ADH6130",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex New York Original Digital Red Watch",
-            "sizes": false,
-            "gender": 5,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4691.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 311,
-        "fields": {
-            "price": "26.83",
-            "discount_price": "24.15",
-            "sku": "ADH6132",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex New York Griffiti Digital Green Watch",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4692.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 312,
-        "fields": {
-            "price": "26.83",
-            "discount_price": "24.15",
-            "sku": "ADH6106",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex New York Digital Blue Watch",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4693.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 313,
-        "fields": {
-            "price": "26.83",
-            "discount_price": "24.15",
-            "sku": "ADP3054",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex Response Galaxy Grey Watch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4694.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 314,
-        "fields": {
-            "price": "26.83",
-            "discount_price": "24.15",
-            "sku": "ADP4019",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex Response Analogue Black Watch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4695.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 315,
-        "fields": {
-            "price": "17.23",
-            "discount_price": "15.51",
-            "sku": "ADP6000",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex Duramo Digital Black Watch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4696.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 316,
-        "fields": {
-            "price": "17.23",
-            "discount_price": "15.51",
-            "sku": "ADP6002",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex Digital Duramo Black Watch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4697.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 317,
-        "fields": {
-            "price": "17.23",
-            "discount_price": "15.51",
-            "sku": "ADP6024",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex Duramo Sleek Black Watch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4699.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 318,
-        "fields": {
-            "price": "22.03",
-            "discount_price": "19.83",
-            "sku": "ADH1768",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex Wooster Analogue Digital Watch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4700.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 319,
-        "fields": {
-            "price": "26.83",
-            "discount_price": "24.15",
-            "sku": "ADH6080",
-            "name": "ADIDAS HERITAGE WATCH",
-            "product_description": "ADIDAS Unisex New York Plaid Digital Black Watch",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 1,
-            "sub_category": 1,
-            "article_type": 22,
-            "special_offer": 1,
-            "image": "4708.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 320,
-        "fields": {
-            "price": "4.60",
-            "discount_price": "4.14",
-            "sku": "1114331-T-Pink",
-            "name": "Disney Girl Pink Summer Fun Fair Tee",
-            "product_description": "Disney Kids Girl's Summer Fun Fair Pink Teen Kidswear",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "4717.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 321,
-        "fields": {
-            "price": "4.60",
-            "discount_price": "4.14",
-            "sku": "1114331-T-Yellow",
-            "name": "Disney Girl Yellow Summer Fun Fair Tee",
-            "product_description": "Disney Kids Girl's Summer Fun Fair Yellow Teen Kidswear",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "4718.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 322,
-        "fields": {
-            "price": "5.75",
-            "discount_price": "5.18",
-            "sku": "1114335-T-White",
-            "name": "Disney Kids Girls white Fun in the Fair Tee",
-            "product_description": "Disney Kids Girl's Fun In The Fair White Teen Kidswear",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "4719.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 323,
-        "fields": {
-            "price": "5.75",
-            "discount_price": "5.18",
-            "sku": "1114335-T-Yellow",
-            "name": "Disney Kids Girls yellow Fun in the Fair Tee",
-            "product_description": "Disney Kids Girl's Fun In The Fair Yellow Teen Kidswear",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "4720.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 324,
-        "fields": {
-            "price": "6.23",
-            "discount_price": "5.61",
-            "sku": "1114112-T-Red",
-            "name": "Disney Kids Boys Red Royal Sailing Tee",
-            "product_description": "Disney Kids Boy's Royal Sailing Red Teen Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "4721.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 325,
-        "fields": {
-            "price": "5.27",
-            "discount_price": "4.74",
-            "sku": "1114349-T",
-            "name": "Disney Kids Girls Blue Disney Jeans Tee",
-            "product_description": "Disney Kids Girl's Jeans Blue Teen Kidswear",
-            "sizes": true,
-            "gender": 5,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "4723.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 326,
-        "fields": {
-            "price": "6.23",
-            "discount_price": "5.61",
-            "sku": "1114112-T-Yellow",
-            "name": "Disney Kids Boys yellow Royal Sailing Tee",
-            "product_description": "Disney Kids Boy's Royal Sailing Yellow Teen Kidswear",
-            "sizes": true,
-            "gender": 4,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "4725.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 327,
-        "fields": {
-            "price": "5.75",
-            "discount_price": "2.06",
-            "sku": "8903338003502",
-            "name": "TRAVEL",
-            "product_description": "Wildcraft Unisex Travel Black Waist Pouch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 1,
-            "special_offer": 1,
-            "image": "5225.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 328,
-        "fields": {
-            "price": "7.63",
-            "discount_price": "4.12",
-            "sku": "8903338504108",
-            "name": "TRAVEL",
-            "product_description": "Wildcraft Unisex Blue Waist pouch",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 1,
-            "special_offer": 1,
-            "image": "5226.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 329,
-        "fields": {
-            "price": "7.63",
-            "discount_price": "2.75",
-            "sku": "8903338002666",
-            "name": "TRAVEL",
-            "product_description": "Wildcraft Unisex Blue Duffel Bag",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 6,
-            "special_offer": 1,
-            "image": "5227.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 330,
-        "fields": {
-            "price": "13.39",
-            "discount_price": "7.83",
-            "sku": "8903338004622",
-            "name": "CAMPUS",
-            "product_description": "Wildcraft Unisex Purple Printed Backpack",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 1,
-            "special_offer": 1,
-            "image": "5259.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 331,
-        "fields": {
-            "price": "11.47",
-            "discount_price": "10.32",
-            "sku": "403856-611",
-            "name": "AS AD CLUB PIQUE POLO MED",
-            "product_description": "Nike Men's Red Polo T-shirt",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "5439.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 332,
-        "fields": {
-            "price": "11.47",
-            "discount_price": "10.32",
-            "sku": "403856-721",
-            "name": "AS AD CLUB PIQUE POLO MED",
-            "product_description": "Nike Men's Club Pique Polo Med Yellow White T-shirt",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "5440.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 333,
-        "fields": {
-            "price": "14.35",
-            "discount_price": "12.92",
-            "sku": "405694-408",
-            "name": "AS NIKE GS JERSEY STRIPED POLD",
-            "product_description": "Nike Women's Striped Polo Blue T-shirt",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "5442.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 334,
-        "fields": {
-            "price": "14.35",
-            "discount_price": "12.92",
-            "sku": "405694-880",
-            "name": "AS NIKE GS JERSEY STRIPED POLD",
-            "product_description": "Nike Women's Striped Polo Orange T-shirt",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "5443.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 335,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "411445-100",
-            "name": "AS TRAINING SS TOP",
-            "product_description": "Nike Men's Training White Blue T-shirt",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "5448.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 336,
-        "fields": {
-            "price": "19.15",
-            "discount_price": "17.24",
-            "sku": "415421-891",
-            "name": "AS RACE DAY SS",
-            "product_description": "Nike Men's Race Day T-shirt",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 11,
-            "article_type": 19,
-            "special_offer": 1,
-            "image": "5449.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 337,
-        "fields": {
-            "price": "19.15",
-            "discount_price": "17.24",
-            "sku": "393799-433",
-            "name": "AS 7",
-            "product_description": "Nike Men's Blue Short",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 4,
-            "article_type": 11,
-            "special_offer": 1,
-            "image": "5450.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 338,
-        "fields": {
-            "price": "17.23",
-            "discount_price": "15.51",
-            "sku": "405210-433",
-            "name": "AS 5",
-            "product_description": "Nike Men's Tempo Blue Short",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 4,
-            "article_type": 11,
-            "special_offer": 1,
-            "image": "5451.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 339,
-        "fields": {
-            "price": "17.23",
-            "discount_price": "15.51",
-            "sku": "404236-064",
-            "name": "AS VAPOR KNIT SHORT",
-            "product_description": "Nike Men's Vapor Knit Grey Short",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 4,
-            "article_type": 11,
-            "special_offer": 1,
-            "image": "5453.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 340,
-        "fields": {
-            "price": "10.51",
-            "discount_price": "9.46",
-            "sku": "418087-010",
-            "name": "AS AD BASIC WOVEN MED SHORT",
-            "product_description": "Nike Men's Basic Woven Med Black Short",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 4,
-            "article_type": 11,
-            "special_offer": 1,
-            "image": "5454.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 341,
-        "fields": {
-            "price": "8.63",
-            "discount_price": "7.77",
-            "sku": "L39676",
-            "name": "ADI JUMBLE",
-            "product_description": "ADIDAS Men's Adi Jumble Grey Flip Flop",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5625.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 342,
-        "fields": {
-            "price": "8.63",
-            "discount_price": "7.77",
-            "sku": "L39678",
-            "name": "ADI JUMBLE",
-            "product_description": "ADIDAS Unisex Adi Jumble Blue Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5627.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 343,
-        "fields": {
-            "price": "12.47",
-            "discount_price": "11.22",
-            "sku": "L39679",
-            "name": "ADI BB SLIDE",
-            "product_description": "ADIDAS Unisex Adi Slide Black Yellow Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5628.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 344,
-        "fields": {
-            "price": "10.55",
-            "discount_price": "9.50",
-            "sku": "L39682",
-            "name": "ADI GROOVE",
-            "product_description": "ADIDAS Women's Adi Groove Pink Flip Flop",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5629.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 345,
-        "fields": {
-            "price": "10.55",
-            "discount_price": "9.50",
-            "sku": "L39683",
-            "name": "ADI GROOVE",
-            "product_description": "ADIDAS Women's Adi Groove Blue Flip Flop",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5630.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 346,
-        "fields": {
-            "price": "6.71",
-            "discount_price": "6.04",
-            "sku": "L40010",
-            "name": "ADI LINER",
-            "product_description": "ADIDAS Unisex Adi Liner Yellow Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5631.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 347,
-        "fields": {
-            "price": "6.71",
-            "discount_price": "6.04",
-            "sku": "L40011",
-            "name": "ADI LINER",
-            "product_description": "ADIDAS Unisex Adi Liner Black Blue Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5635.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 348,
-        "fields": {
-            "price": "6.71",
-            "discount_price": "6.04",
-            "sku": "L40012",
-            "name": "ADI LINER",
-            "product_description": "ADIDAS Unisex Adi Liner Brown Flip Flop",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 3,
-            "sub_category": 5,
-            "article_type": 7,
-            "special_offer": 1,
-            "image": "5638.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 349,
-        "fields": {
-            "price": "1.68",
-            "discount_price": "1.51",
-            "sku": "SX3518-101",
-            "name": "NEW AP SWSH C",
-            "product_description": "Nike Men's New Ap Swsh C White Socks",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "6696.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 350,
-        "fields": {
-            "price": "5.04",
-            "discount_price": "4.54",
-            "sku": "SX3662-149",
-            "name": "NEW NIKE ELIT",
-            "product_description": "Nike Men's New Elit White Orange Grey Socks",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "6697.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 351,
-        "fields": {
-            "price": "1.39",
-            "discount_price": "1.25",
-            "sku": "SX4325-121",
-            "name": "NSW MENS CLSC",
-            "product_description": "Nike Men's Nsw Clsc White Socks",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "6699.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 352,
-        "fields": {
-            "price": "1.39",
-            "discount_price": "1.25",
-            "sku": "SX4325-154-WHITE/CLUB PURPLE/(LT PHOTO BL-6700",
-            "name": "NSW MENS CLSC STRIPED SNGL QTR",
-            "product_description": "Nike Men's Nsw Clsc White Blue Socks",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "6700.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 353,
-        "fields": {
-            "price": "1.39",
-            "discount_price": "1.25",
-            "sku": "SX4409-168-WHITE/RIO/(RIO)-6705",
-            "name": "NSW WMNS CTN SNGL LOW CUT-S,M",
-            "product_description": "Nike Women's Nsw Ctn White Red Socks",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "6705.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 354,
-        "fields": {
-            "price": "5.04",
-            "discount_price": "4.54",
-            "sku": "SX3662-011",
-            "name": "NEW NIKE ELIT",
-            "product_description": "Nike Men's Elit Black Orange Socks",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "6798.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 355,
-        "fields": {
-            "price": "1.24",
-            "discount_price": "1.11",
-            "sku": "91004401",
-            "name": "Sports Socks 1 Pair",
-            "product_description": "Puma Men Sports Socks 1 Pair White Socks",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "9352.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 356,
-        "fields": {
-            "price": "1.24",
-            "discount_price": "1.11",
-            "sku": "91004403",
-            "name": "Sports Socks 1 Pair",
-            "product_description": "Puma Men Sports Socks 1 Pair Grey Socks",
-            "sizes": true,
-            "gender": 1,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "9354.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 357,
-        "fields": {
-            "price": "1.43",
-            "discount_price": "1.29",
-            "sku": "91021801",
-            "name": "Logo Stud",
-            "product_description": "Puma Women Logo Stud Pink Socks",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "9362.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 358,
-        "fields": {
-            "price": "1.43",
-            "discount_price": "1.29",
-            "sku": "91021802",
-            "name": "Logo Stud",
-            "product_description": "Puma Women Logo Stud White Socks",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "9363.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 359,
-        "fields": {
-            "price": "1.43",
-            "discount_price": "1.29",
-            "sku": "91021803",
-            "name": "Women Logo Stud",
-            "product_description": "Puma Women Logo Stud Blue Socks",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "9364.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 360,
-        "fields": {
-            "price": "1.14",
-            "discount_price": "1.03",
-            "sku": "91036801",
-            "name": "ABS",
-            "product_description": "Puma Women Pink Socks",
-            "sizes": true,
-            "gender": 2,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "9371.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 361,
-        "fields": {
-            "price": "2.39",
-            "discount_price": "2.15",
-            "sku": "91069901",
-            "name": "Foundation",
-            "product_description": "Puma Unisex Foundation Pink Socks",
-            "sizes": true,
-            "gender": 3,
-            "master_category": 2,
-            "sub_category": 9,
-            "article_type": 12,
-            "special_offer": 1,
-            "image": "9373.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 362,
-        "fields": {
-            "price": "14.35",
-            "discount_price": "12.92",
-            "sku": "BA4314-662",
-            "name": "GRAPHIC PLAY",
-            "product_description": "Nike Women Graphic Play Red Bag",
-            "sizes": false,
-            "gender": 2,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 9,
-            "special_offer": 1,
-            "image": "9442.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 363,
-        "fields": {
-            "price": "23.95",
-            "discount_price": "21.56",
-            "sku": "BA3173-446",
-            "name": "SAMI STANDARD",
-            "product_description": "Nike Women Sami Standard Blue Bag",
-            "sizes": false,
-            "gender": 2,
-            "master_category": 1,
-            "sub_category": 3,
-            "article_type": 9,
-            "special_offer": 1,
-            "image": "9444.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 364,
-        "fields": {
-            "price": "89.99",
-            "discount_price": "69.99",
-            "sku": "231088-G2",
-            "name": "HEAD Ti S6 Titanium Tennis Racket",
-            "product_description": "HEAD Ti S6 Titanium Tennis Racket",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 1,
-            "sub_category": 10,
-            "article_type": 20,
-            "special_offer": 2,
-            "image": "50002.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 365,
-        "fields": {
-            "price": "23.95",
-            "discount_price": "22.99",
-            "sku": "B08BJB29B9",
-            "name": "Wilson Junior Tennis Racket",
-            "product_description": "Wilson Federer 23 Junior Tennis Racket",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 20,
-            "special_offer": 2,
-            "image": "50003.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 366,
-        "fields": {
-            "price": "22.99",
-            "discount_price": "17.51",
-            "sku": "K-REY-233420",
-            "name": "HEAD Youth Novak Tennis Racket",
-            "product_description": "HEAD Boys-Youth Novak Tennis Racket",
-            "sizes": false,
-            "gender": 4,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 20,
-            "special_offer": 2,
-            "image": "50000.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 367,
-        "fields": {
-            "price": "22.99",
-            "discount_price": "17.51",
-            "sku": "K-REY-233410",
-            "name": "HEAD Youth Maria Tennis Racket",
-            "product_description": "HEAD Girls-Youth Maria Tennis Racket",
-            "sizes": false,
-            "gender": 5,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 20,
-            "special_offer": 2,
-            "image": "50001.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 368,
-        "fields": {
-            "price": "21.99",
-            "discount_price": "18.99",
-            "sku": "8-11312C105",
-            "name": "Speedo Women's Swimming Goggles",
-            "product_description": "Speedo Adult Women's Futura Biofuse Flexiseal Swimming Goggle",
-            "sizes": false,
-            "gender": 2,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 16,
-            "special_offer": 3,
-            "image": "50005.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 369,
-        "fields": {
-            "price": "21.99",
-            "discount_price": "15.99",
-            "sku": "8-11315B976",
-            "name": "Speedo Unisex Swimming Goggles",
-            "product_description": "Speedo Adult Unisex Futura Biofuse Flexiseal Swimming Goggle",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 16,
-            "special_offer": 3,
-            "image": "50004.jpg"
-        }
-    },
-    {
-        "model": "products.product",
-        "pk": 370,
-        "fields": {
-            "price": "9.99",
-            "discount_price": "7.99",
-            "sku": "8-061680001",
-            "name": "Speedo Unisex Swimming Cap",
-            "product_description": "Speedo Adult Unisex Long Hair Swimming Cap",
-            "sizes": false,
-            "gender": 3,
-            "master_category": 4,
-            "sub_category": 10,
-            "article_type": 16,
-            "special_offer": 1,
-            "image": "50006.jpg"
         }
     }
 ]
