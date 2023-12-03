@@ -17,6 +17,7 @@
                 All Products
             </a>
             <div class="dropdown-menu border-0">
+                <!----urls for products and categories
                 <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">
                     By Price
                 </a>
@@ -34,6 +35,7 @@
                 </a>
             </div>
         </li>
+        --->
 
         <!-- Menswear nav links -->
         <li class="nav-item dropdown">
@@ -41,6 +43,7 @@
                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Men
             </a>
+            <!----urls for products and gender
             <div class="dropdown-menu border-0">
                 <a href="{% url 'products' %}?gender=men,unisex&master_category=footwear&sort=article_type&direction=asc"
                     class="dropdown-item"><strong>Footwear</strong></a>
@@ -79,6 +82,7 @@
                     class="dropdown-item"><strong>All Menswear</strong></a>
             </div>
         </li>
+        ----->
 
         <!-- Womenswear nav links -->
         <li class="nav-item dropdown">
@@ -87,6 +91,7 @@
                 Women
             </a>
             <div class="dropdown-menu border-0">
+                <!----- urld for menswear
                 <a href="{% url 'products' %}?gender=women,unisex&master_category=footwear&sort=article_type&direction=asc"
                     class="dropdown-item"><strong>Footwear</strong></a>
                 <a href="{% url 'products' %}?gender=women,unisex&master_category=footwear&sub_category=shoes&sort=article_type&direction=asc"
@@ -125,6 +130,7 @@
                         Womenswear</strong></a>
             </div>
         </li>
+        ---->
 
         <!-- Kidswear nav links -->
         <li class="nav-item dropdown">
@@ -133,6 +139,7 @@
                 Kids
             </a>
             <div class="dropdown-menu border-0">
+                <!---- urls kids items
                 <a href="{% url 'products' %}?gender=boys,girls&master_category=footwear&sort=article_type&direction=asc"
                     class="dropdown-item"><strong>Footwear</strong></a>
                 <a href="{% url 'products' %}?gender=boys,girls&master_category=footwear&sub_category=shoes&sort=article_type&direction=asc"
@@ -170,6 +177,7 @@
                     class="dropdown-item"><strong>All Kidswear</strong></a>
             </div>
         </li>
+        ----->
 
         <!-- Mega Offers nav links -->
         <li class="nav-item dropdown">
@@ -177,6 +185,7 @@
                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Mega Offers
             </a>
+            <!-----urls for special offers 
             <div class="dropdown-menu border-0">
                 <a href="{% url 'products' %}?special_offer=new_arrivals&sort=article_type&direction=asc"
                     class="dropdown-item">
@@ -198,3 +207,4 @@
         </li>
     </ul>
 </div>
+----->
