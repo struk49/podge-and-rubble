@@ -67,10 +67,11 @@
 
 <body>
     <header class="container-fluid fixed top">
-        <div id="topnav" class="row bg-dark pt-lg-2 d-none d-lg-flex">
+        <div id="topnav" class="row bg-secondary  pt-lg-2 d-none d-lg-flex">
             <!-- Brand Logo Image -->
             <div class="col-12 col-lg-4 my-auto py-1 py-lg-0 text-center text-lg-left">
                 <a href="{% url 'home' %}" class="nav-link logo-img-link">
+                    <h2 class="logo-font text-black my-0"><strong>Podge</strong> and <strong>Rubble</strong></h2>
                 </a>
             </div>
 
@@ -142,7 +143,7 @@
 
         <!-- Navbar elements are placed in partial HTML files -->
         <div class="row bg-dark">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark w-100">
+            <nav class="navbar navbar-expand-lg navbar-secondary bg-secondary w-100">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav"
                     aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
